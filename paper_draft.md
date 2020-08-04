@@ -11,9 +11,9 @@ Atmospheric oxidizing capacity is important but hard to estimate.
 
 Evaluation of tropospheric OH on global scale particularly challenging: missing sources, missing sinks, partitioning.
 
-Methods to estimate OH relies on box model approaches, e.g. Spivakovsky.  Box model with inputs of photolysis rates and sinks, performed over global range.
+Methods to estimate OH relies on box model approaches, e.g. Spivakovsky.  Box model with inputs of photolysis rates and sinks, performed over global range.   Uncertainties can be dominated by photochemical inputs (e.g. cloudiness, albedo)
 
-Another approach is globally integrated assessments, e.g. MCF.  Uncertainties can be dominated by photochemical inputs (e.g. cloudiness, albedo), anciliary loss processes (e.g. unknown sinks for MCF).
+Another approach is globally integrated assessments, e.g. MCF.  Uncertainties can be dominated by anciliary loss processes (e.g. unknown sinks for MCF).
 
 These approaches have limitations, e.g. Prather estimate of CH4 lifetime.
 
