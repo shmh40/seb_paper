@@ -27,6 +27,6 @@ Paper uses these data together with a reduced-complexity CCM mechanism and a sta
 
 Figures?
 
-![Success](figures/draf_fig_success.png raw=true "Success")
+![Success](figures/draf_fig_success.png )
 
-![Correl](figures/draf_fig_correl.png raw=true "Correlation")
+![Correl](figures/draft_fig_correl.png)
