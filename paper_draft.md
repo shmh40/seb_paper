@@ -9,7 +9,7 @@ SH, and PTG, JMW, Christop Knote?, ATA in some order
 
 Atmospheric oxidizing capacity is important but hard to estimate.  
 
-Evaluation of tropospheric OH on global scale particularly challenging: short lifetime, strong spatial and temporal variability in sources and sinks, there may be unknown sources, missing sinks in models. Partitioning between HOx species also important, requires further understanding depends on NO, CO and emerging evidence for the importance HOx recycling processes.
+Evaluation of tropospheric OH on global scale particularly challenging: short lifetime, strong spatial and temporal variability in sources and sinks, there may be unknown sources, missing sinks in models. Partitioning between HOx species also important, requires further understanding, depends on NO, CO and emerging evidence for the importance HOx recycling processes.
 
 Methods to estimate OH relies on box model approaches, e.g. Spivakovsky.  Box model with inputs of photolysis rates and sinks, performed over global range.   Uncertainties can be dominated by photochemical inputs (e.g. cloudiness, albedo)
 
