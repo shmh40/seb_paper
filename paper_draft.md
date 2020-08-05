@@ -7,7 +7,7 @@ SH, and PTG, JMW, Christop Knote?, ATA in some order
 
 ## Introduction
 
-Atmospheric oxidizing capacity is important but hard to estimate.  This has implications for the usefulness of chemistry-climate models - using bottom-up emissions estimates in a model with incorrect oxidising capacity (too fast/slow sinks) leads to errors in calculation of atmospheric concentrations.  Better understanding, and more accurate simulation, of the tropospheric oxidising capacity would mean that models would give more accurate top-down emissions estimates using atmospheric inversion methods.
+Atmospheric oxidizing capacity is important but hard to estimate.  This has implications for the usefulness of chemistry-climate models - using bottom-up emissions estimates in a model with incorrect oxidising capacity (too fast/slow sinks) leads to errors in calculation of atmospheric concentrations. This has implications for other area.  For instance, improving our understanding and more accurately simulating levels of global oxidants would result in more accurate top-down emissions estimates using atmospheric inversion methods.  More accurate estimates of trace gas lifetimes would allow for more accurate calculation of their radiative impact.
 
 Evaluation of tropospheric OH on global scale particularly challenging: short lifetime, strong spatial and temporal variability in sources and sinks, there may be unknown sources, missing sinks in models. Partitioning between HOx species also important, requires further understanding, depends on NO, CO and emerging evidence for the importance HOx recycling processes.
 
